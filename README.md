@@ -6,7 +6,7 @@ Aplicación [Vue.js](https://vuejs.org/) que simula el Slicing Notation de Pytho
 
 ## Demo
 
-in progress ...
+![screenshot](documentation/screenshot.gif)
 
 
 
