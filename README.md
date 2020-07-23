@@ -6,6 +6,7 @@ Aplicación [Vue.js](https://vuejs.org/) que simula el Slicing Notation de Pytho
 
 ## Demo
 
+[Live demo](https://maxsso.github.io/python-slicing-vtrainer/)
 <p align="center">
   <img src="documentation/screenshot.gif">
 </p>
