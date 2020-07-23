@@ -6,8 +6,9 @@ Aplicación [Vue.js](https://vuejs.org/) que simula el Slicing Notation de Pytho
 
 ## Demo
 
-![screenshot](documentation/screenshot.gif)
-
+<p align="center">
+  <img src="documentation/screenshot.gif">
+</p>
 
 
 ## Probar en Local
